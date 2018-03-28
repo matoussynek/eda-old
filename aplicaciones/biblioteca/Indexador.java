@@ -31,7 +31,7 @@ public class Indexador {
     protected static String DIR_LIBROS = File.separator 
                                        + "labos" + File.separator 
                                        + "alumnos" + File.separator 
-                                       + "masy" + File.separator 
+                                       + "hoda" + File.separator 
                                        + "asigDSIC" + File.separator 
                                        + "ETSINF" + File.separator 
                                        + "eda" + File.separator 
